@@ -1,0 +1,17 @@
+ModelFileName(extension) Position(x,y,z) Orientation(x,y,z) Scale Colour(r,g,b)
+Camera 0 2 -4
+bun_zipper_res2_XYZ_N.ply -4.2 -0.05 -2 0 0 0 5 204 153 255
+Biodome_02.ply -8 1.5 -2 90 0 0 0.1 224 224 224
+dfk_chairs.ply 1 0 5 0 180 0 1 102 51 0
+dfk_chairs.ply -1 0 5 0 180 0 1 102 102 0
+bun_zipper_res2_XYZ_N.ply -1 0.625 5 0 180 0 2 255 204 204
+dfk_bookshelf.ply 3 0 2 0 270 0 2 153 255 255
+dfk_crystal_02.ply 7.2 -0.1 1.5 0 0 0 1 76 0 153
+dfk_crystal_02.ply 6.8 0.7 0.5 0 30 0 1 255 153 204
+bun_zipper_res2_XYZ_N.ply 3 1.75 1.8 0 30 0 1.5 229 255 204
+dfk_pillar_small_02.ply 2 3 5 180 0 0 0.85 204 255 255
+dfk_pillar_small_02.ply -2 3 5 180 0 0 0.85 204 229 255
+dfk_arch_0.ply 0 3 5 0 0 0 0.9 153 255 204
+Floor_01_B.ply 5 0.025 -5 270 0 0 2 96 96 96
+Turret.ply 0 1 -5 90 180 0 0.02 153 0 0
+end

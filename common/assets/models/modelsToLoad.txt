@@ -1,0 +1,10 @@
+bun_zipper_res2_XYZ_N.ply
+Biodome_02.ply
+dfk_arch_0.ply
+dfk_bookshelf.ply
+dfk_chairs.ply
+dfk_crystal_02.ply
+dfk_pillar_small_02.ply
+Floor_01_B.ply
+Turret.ply
+end
