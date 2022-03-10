@@ -28,4 +28,4 @@ Camera:
 I was having issues figuring out how to make a fly camera so, I went to Google.  The main resources I used to figure out how to make this camera were: http://www.opengl-tutorial.org/beginners-tutorials/tutorial-6-keyboard-and-mouse/ and https://learnopengl.com/Getting-started/Camera (mainly the learnopengl).  Essentially, after setting up the mouse_callback (which is how GLFW gets the X and Y information from mouse movement), we figure out the offset from where the mouse last was, use this information to change the yaw and pitch of where the camera is looking, and then use SOH CAH TOA to calculate the exact XYZ position of the camera target in world space(again, most of the math is from the learnopengl source).  There is some additional logic to change the inital yaw value from lines [164-211] so that the inital target is always facing the origin along the z-axis.
 
 Video:
-There should be a short demo video in the same folder as this README showcasing the code and running program.  Sorry for the ramblyness and length of the video.
+https://youtu.be/GyyuJQqbV-U
